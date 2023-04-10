@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992749841988",
+    "project_id": "traductor2023-4b648",
+    "storage_bucket": "traductor2023-4b648.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992749841988:android:d7728c679df02dc10d5611",
+        "android_client_info": {
+          "package_name": "com.michael.appbalum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992749841988-4e3fl68akl8iaeb6jtn0uhvsbogqsoes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_M_ez8i2Sy-feJp5slsuwmANzf1S0qAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992749841988-4e3fl68akl8iaeb6jtn0uhvsbogqsoes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
